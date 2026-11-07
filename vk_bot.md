@@ -1,3 +1,5 @@
+vk1.a.O9BEe52I1uH-jGc8E_XFoAgGfsqU5O478rH7tJ-dHA3lNGmSfANibTsvgeV6cPJHZWipYwFYCRuTCVY7y8yBUfwgJUB62WibeXB0-mr86ZZqW8e96bC7CZ3zFUq-ArvyzvEvKvlnXQpU7itizdnn0bCovWlQ07Z7xfGVfc2wbL2lvgQRnDOr2QfGx5le4JhUBFIpW0RYXn-gRlCAXP2faQ
+
 # Полное руководство: создание бота ВКонтакте для сообщества с нуля
 
 В этом руководстве мы пройдём путь от регистрации сообщества до работающего бота с полноценным кодом. Мы будем использовать Python и библиотеку `vk_api`, которая является стандартом де-факто для работы с VK API на Python. В конце вы получите готовый скрипт с обработкой команд, клавиатурой и базовой логикой.
